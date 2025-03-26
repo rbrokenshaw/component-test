@@ -1,0 +1,29 @@
+.label {
+  padding: 2px 4px;
+}
+
+.button {
+  border: 1px solid oklch(0.872 0.01 258.338);
+  border-radius: 4px;
+  padding: 4px 8px;
+  cursor: pointer;
+}
+
+.span {
+  margin-left: 8px;
+  color: oklch(0.496 0.265 301.924);
+}
+
+.popover {
+  border: 1px solid oklch(0.872 0.01 258.338);
+  border-radius: 4px;
+}
+
+.listBoxItem {
+  cursor: pointer;
+  padding: 4px 12px;
+}
+
+.listBoxItem:hover {
+  background-color: oklch(0.967 0.003 264.542);
+}
